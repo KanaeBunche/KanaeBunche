@@ -22,7 +22,7 @@
 
 <b> 👨‍💻 Web Development Projects:</b>
   - [E-Commerance: Prerequisites and Installation](https://github.com/KanaeBunche/E-Commerance)
-  - [osTicket: Post-Installation Configuration](https://github.com/KanaeBunche/cybermission.org)
+  - [Non-Profit-Websitet: Post-Installation Configuration](https://github.com/KanaeBunche/cybermissions.org)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle)
 
 
