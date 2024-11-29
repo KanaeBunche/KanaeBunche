@@ -8,13 +8,14 @@
 
 <h2>📂 Information Technology Projects</h2>
 
-- [osTicket: Help Desk Ticketing System](https://github.com/Joshmakaodemonds/osticket-prereqs)
-  - [osTicket: Prerequisites and Installation](https://github.com/Joshmakaodemonds/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Joshmakaodemonds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Joshmakaodemonds/ticket-lifecycle)
+<b> Help Desk Ticketing System </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/KanaeBunche/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/KanaeBunche/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle)
 
-- [Configuring On-Premises Active Directory within Azure](https://github.com/Joshmakaodemonds/configure-ad)
-- [Network Security Groups and Inspecting Network Protocols](https://github.com/Joshmakaodemonds/network-protocols)
+ <b>Microsoft Azure</b>
+  - [Configuring On-Premises Active Directory within Azure](https://github.com/Joshmakaodemonds/configure-ad)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/Joshmakaodemonds/network-protocols)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
