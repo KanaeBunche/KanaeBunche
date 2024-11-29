@@ -21,8 +21,8 @@
 <hr>
 
 <b> 👨‍💻 React.js Web Development Projects:</b>
-  - [E-Commerance: WebSite](https://github.com/KanaeBunche/E-Commerance)
-  - [(Private):Cybermissions:Non-Profit-Website](https://github.com/KanaeBunche/cybermissions.org)
+  - [E-Commerance: Website](https://github.com/KanaeBunche/E-Commerance)
+  - [(Private Code):Cybermissions:Non-Profit-Website](https://github.com/KanaeBunche/cybermissions.org)
       - [Live-Website](https://www.cybermissions.org)
   - [Blogging: Full-Stack Blogging Website](https://github.com/KanaeBunche/Blogging)
   -  Backend
