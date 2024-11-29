@@ -19,11 +19,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 <hr>
-<h2>👨‍💻 Web Development Projects:</h2>
 
-- 🔭 I’m currently working on [E-Commerance Wesbite](https://github.com/KanaeBunche/E-Commerance)
+<b> 👨‍💻 Web Development Projects:</b>
+  - [E-Commerance: Prerequisites and Installation](https://github.com/KanaeBunche/E-Commerance)
+  - [osTicket: Post-Installation Configuration](https://github.com/KanaeBunche/cybermission.org)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle)
 
-- 🌱 I’m currently learning **Node.js**
+
 
 - 👨‍💻 All of My Projects Are Available At [Kanae-Projects](https://magical-biscuit-e7e30d.netlify.app/)
 
