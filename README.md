@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋, I'm Kanae Bunche </h1>
 <h2 align="center">IT Professional & Web Developer</h2>
-
+<hr>
 <h2>📂 Information Technology Projects</h2>
 
 <b> Help Desk Ticketing System </b>
