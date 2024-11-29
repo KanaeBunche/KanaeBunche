@@ -1,5 +1,5 @@
 
-<img  alt="Coding" width="100%" height= "100%" src="https://cdn.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/d8ea11db-64e5-4e9c-8a15-b68159726ce3_rw_1200.gif?h=4048ff996637a050f7008fed6536eba4">
+<img  alt="Coding" width="100%" height= "100%" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
 
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
