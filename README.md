@@ -4,7 +4,7 @@
 
 <h3 align="center">IT Professional & Web Developer</h3>
 
-<hr>
+
 <h2>📂 Information Technology Projects</h2>
 
 <b> Help Desk Ticketing System </b>
