@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of My Projects Are Available At [Hosted-Projects](https://magical-biscuit-e7e30d.netlify.app/)
+- 👨‍💻 All of My Projects Are Available At [Kanae-Projects](https://magical-biscuit-e7e30d.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@kanaecoder](https://medium.com/@kanaecoder)
 
