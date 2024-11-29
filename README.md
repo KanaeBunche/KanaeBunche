@@ -1,5 +1,5 @@
 
-<img  alt="Coding" width="100%" height= "100%" src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif">
+<img  alt="Coding" width="100%" height= "100%" src="https://i.gifer.com/J4o.gif">
 
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
