@@ -1,5 +1,5 @@
 
-<img  alt="Coding" width="70%" height= "70%" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
+<img  alt="Coding" align="center" width="100%" height= "70%" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
 
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
