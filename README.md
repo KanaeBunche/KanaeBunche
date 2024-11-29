@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi 👋, I'm Kanae Bunche, and IT Professional & Web Developer</h1>
+<h1 align="center"> Hi 👋, I'm Kanae Bunche, an IT Professional & Web Developer</h1>
 <hr>
 <h2>📂 Information Technology Projects</h2>
 
