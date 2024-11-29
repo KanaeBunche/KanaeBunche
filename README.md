@@ -4,8 +4,22 @@
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
+<h1>Information Technology Projects</h1>
 
+<h2>📂 Information Technology Projects</h2>
+
+- [osTicket: Help Desk Ticketing System](https://github.com/Joshmakaodemonds/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Joshmakaodemonds/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Joshmakaodemonds/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Joshmakaodemonds/ticket-lifecycle)
+
+- [Configuring On-Premises Active Directory within Azure](https://github.com/Joshmakaodemonds/configure-ad)
+- [Network Security Groups and Inspecting Network Protocols](https://github.com/Joshmakaodemonds/network-protocols)
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
+<hr>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - 🔭 I’m currently working on [E-Commerance Wesbite](https://github.com/KanaeBunche/E-Commerance)
 
