@@ -12,8 +12,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle)
 
  <b>Microsoft Azure</b>
-  - [Configuring On-Premises Active Directory within Azure](https://github.com/Joshmakaodemonds/configure-ad)
-  - [Network Security Groups and Inspecting Network Protocols](https://github.com/Joshmakaodemonds/network-protocols)
+  - [Configuring On-Premises Active Directory within Azure](https://github.com/KanaeBunche/configure-ad)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/KanaeBunche/network-protocols)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
