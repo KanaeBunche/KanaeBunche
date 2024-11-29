@@ -1,5 +1,5 @@
 
-<img  alt="Coding" align="center" width="50%" height="50%" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif">
+<img  alt="Coding" align="center" width="100%" height="50%" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif">
 
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
