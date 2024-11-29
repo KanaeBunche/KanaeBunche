@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 <hr>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Web Development Projects:</h2>
 
 - 🔭 I’m currently working on [E-Commerance Wesbite](https://github.com/KanaeBunche/E-Commerance)
 
