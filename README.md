@@ -25,10 +25,10 @@
   - [(Private):Cybermissions:Non-Profit-Website](https://github.com/KanaeBunche/cybermissions.org)
       - [Live-Website](https://www.cybermissions.org)
   - [Blogging: Full-Stack Blogging Website](https://github.com/KanaeBunche/Blogging)
-    -Backend
-      Node
-      Express
-      Mongoose
+  -  Backend
+     - Node
+     - Express
+     - Mongoose
 
 - 👨‍💻 All of My Projects Are Available At [Kanae-Projects](https://magical-biscuit-e7e30d.netlify.app/)
 
