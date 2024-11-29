@@ -4,7 +4,7 @@
 <h1 align="center"> Hi 👋, I'm Kanae Bunche</h1><h3 align="center">IT Professional & Web Developer
 </h3>
 
-<h1>📂 Information Technology Projects</h1>
+<h2>📂 Information Technology Projects</h2>
 
 <b> Help Desk Ticketing System </b>
   - [osTicket: Prerequisites and Installation](https://github.com/KanaeBunche/osticket-prereqs)
