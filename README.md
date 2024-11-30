@@ -12,7 +12,8 @@
 
 ### Microsoft Azure
 - [Configuring On-Premises Active Directory within Azure](https://github.com/KanaeBunche/configure-ad) 
-- [Network Security Groups and Inspecting Network Protocols](https://github.com/KanaeBunche/network-protocols) 
+- [Network Security Groups and Inspecting Network Protocols](https://github.com/KanaeBunche/network-protocols)
+- [DNS-Server-Misconfiguration](https://github.com/KanaeBunche/DNS-Server-Misconfiguration/blob/main/README.md)
 
 ---
 
