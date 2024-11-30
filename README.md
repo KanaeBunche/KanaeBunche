@@ -6,13 +6,13 @@
 <h2>📂 Information Technology Projects</h2>
 
 ### Help Desk Ticketing System
-- [osTicket: Prerequisites and Installation](https://github.com/KanaeBunche/osticket-prereqs) (Code Repository)
-- [osTicket: Post-Installation Configuration](https://github.com/KanaeBunche/post-install-config) (Code Repository)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle) (Code Repository)
+- [osTicket: Prerequisites and Installation](https://github.com/KanaeBunche/osticket-prereqs) 
+- [osTicket: Post-Installation Configuration](https://github.com/KanaeBunche/post-install-config) 
+- [osTicket: Ticket Lifecycle Examples](https://github.com/KanaeBunche/ticket-lifecycle) 
 
 ### Microsoft Azure
-- [Configuring On-Premises Active Directory within Azure](https://github.com/KanaeBunche/configure-ad) (Code Repository)
-- [Network Security Groups and Inspecting Network Protocols](https://github.com/KanaeBunche/network-protocols) (Code Repository)
+- [Configuring On-Premises Active Directory within Azure](https://github.com/KanaeBunche/configure-ad) 
+- [Network Security Groups and Inspecting Network Protocols](https://github.com/KanaeBunche/network-protocols) 
 
 ---
 
