@@ -14,7 +14,7 @@
 - **Frontend:** Vite,React.js, JavaScript (ES6+), HTML5, CSS3
 - **Backend:** Node.js, Express.js
 - **Database & ORM:** MongoDB, Mongoose, SQL
-- **Dev Tools:** Git, GitHub, VS Code
+- **Dev Tools:** Git, GitHub, VS Code, Azure Repos
 - **IT & Cloud:** Microsoft Azure, Active Directory, Networking, DNS
 
 ---
