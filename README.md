@@ -11,7 +11,7 @@
 
 ### 🧠 Tech Stack
 
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** Vite,React.js, JavaScript (ES6+), HTML5, CSS3
 - **Backend:** Node.js, Express.js
 - **Database & ORM:** MongoDB, Mongoose, SQL
 - **Dev Tools:** Git, GitHub, VS Code
